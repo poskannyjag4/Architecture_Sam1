@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Architecture_Sam1", "Architecture_Sam1\Architecture_Sam1.csproj", "{C5A6FD6D-7182-4679-AF61-CF219E8FA74D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator_CL", "Decorator_CL\Decorator_CL.csproj", "{A142C9CE-B5AA-48B1-BB74-CEBED854F707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5A6FD6D-7182-4679-AF61-CF219E8FA74D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A6FD6D-7182-4679-AF61-CF219E8FA74D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A6FD6D-7182-4679-AF61-CF219E8FA74D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A6FD6D-7182-4679-AF61-CF219E8FA74D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A142C9CE-B5AA-48B1-BB74-CEBED854F707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A142C9CE-B5AA-48B1-BB74-CEBED854F707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A142C9CE-B5AA-48B1-BB74-CEBED854F707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A142C9CE-B5AA-48B1-BB74-CEBED854F707}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
