@@ -46,6 +46,12 @@
     <ItemGroup>
       <Content Include=".gitignore" />
     </ItemGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\Decorator_CL\Decorator_CL.csproj">
+        <Project>{a142c9ce-b5aa-48b1-bb74-cebed854f707}</Project>
+        <Name>Decorator_CL</Name>
+      </ProjectReference>
+    </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
          Other similar extension points exist, see Microsoft.Common.targets.
